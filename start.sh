@@ -1,1 +1,1 @@
-jupyter notebook --no-browser --port 9060 --ip=0.0.0.0 
+jupyter lab --no-browser --port 9065 --ip=0.0.0.0 
